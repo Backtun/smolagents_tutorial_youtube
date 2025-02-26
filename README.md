@@ -21,6 +21,8 @@ yfinance
 Y las siguientes claves API (configuradas en un archivo .env):
 - OPENAI_API_KEY
 - GEMINI_API_KEY
+- HUGGINGFACE_API_KEY
+- OPENROUTER_API_KEY
 
 ## Uso
 
